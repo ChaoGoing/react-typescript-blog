@@ -1,0 +1,10 @@
+{
+  "name": "react-typescript-blog",
+  "version": "1.0.0",
+  "author": "陈子超 <chenzichao@xiao100.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo 'skip test...'"
+  }
+}
